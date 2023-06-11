@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-01/mall-tiny-01.iml" filepath="$PROJECT_DIR$/mall-tiny-01/mall-tiny-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-02/mall-tiny-02.iml" filepath="$PROJECT_DIR$/mall-tiny-02/mall-tiny-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-03/mall-tiny-03.iml" filepath="$PROJECT_DIR$/mall-tiny-03/mall-tiny-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-04/mall-tiny-04.iml" filepath="$PROJECT_DIR$/mall-tiny-04/mall-tiny-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-05/mall-tiny-05.iml" filepath="$PROJECT_DIR$/mall-tiny-05/mall-tiny-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-06/mall-tiny-06.iml" filepath="$PROJECT_DIR$/mall-tiny-06/mall-tiny-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-07/mall-tiny-07.iml" filepath="$PROJECT_DIR$/mall-tiny-07/mall-tiny-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-tiny-08/mall-tiny-08.iml" filepath="$PROJECT_DIR$/mall-tiny-08/mall-tiny-08.iml" />
+    </modules>
+  </component>
+</project>
